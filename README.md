@@ -6,3 +6,5 @@
 
 # I can do it!!!!
 # vscode 
+
+# blog.naver.com/dragow1277
