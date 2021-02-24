@@ -8,3 +8,5 @@
 # vscode 
 
 # blog.naver.com/dragow1277
+
+# move out!!
